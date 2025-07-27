@@ -13,7 +13,7 @@ Este projeto fornece um servidor local para simular um feed de not√≠cias com an√
 
 ```bash
 git clone https://github.com/asfcarvalho/FeedServerMock
-cd mock_feed_server
+cd FeedServerMock
 ```
 
 2. Crie e ative um ambiente virtual (opcional, mas recomendado):
