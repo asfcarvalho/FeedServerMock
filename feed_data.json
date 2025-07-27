@@ -1,0 +1,65 @@
+[
+  {
+    "id": "news1",
+    "type": "news",
+    "title": "Notícia de Tecnologia 1",
+    "imageUrl": "https://images.pexels.com/photos/3861969/pexels-photo-3861969.jpeg",
+    "description": "Resumo da notícia 1.",
+    "fullDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vel tortor facilisis, tincidunt metus ut, facilisis sapien.\n\nVestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae. Donec tincidunt, mauris nec laoreet faucibus, purus nisl tincidunt urna, sed tincidunt neque lorem in turpis.\n\nSed quis sapien eget velit cursus eleifend in at sapien. Nullam et tortor tincidunt, porttitor ante vitae, suscipit nisl."
+  },
+  {
+    "id": "news2",
+    "type": "news",
+    "title": "Notícia de Tecnologia 2",
+    "imageUrl": "https://images.pexels.com/photos/3861966/pexels-photo-3861966.jpeg",
+    "description": "Resumo da notícia 2.",
+    "fullDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vel tortor facilisis, tincidunt metus ut, facilisis sapien.\n\nVestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae. Donec tincidunt, mauris nec laoreet faucibus, purus nisl tincidunt urna, sed tincidunt neque lorem in turpis.\n\nSed quis sapien eget velit cursus eleifend in at sapien. Nullam et tortor tincidunt, porttitor ante vitae, suscipit nisl."
+  },
+  {
+    "id": "news3",
+    "type": "news",
+    "title": "Notícia de Tecnologia 3",
+    "imageUrl": "https://images.pexels.com/photos/3861972/pexels-photo-3861972.jpeg",
+    "description": "Resumo da notícia 3.",
+    "fullDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vel tortor facilisis, tincidunt metus ut, facilisis sapien.\n\nVestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae. Donec tincidunt, mauris nec laoreet faucibus, purus nisl tincidunt urna, sed tincidunt neque lorem in turpis.\n\nSed quis sapien eget velit cursus eleifend in at sapien. Nullam et tortor tincidunt, porttitor ante vitae, suscipit nisl."
+  },
+  {
+    "id": "news4",
+    "type": "news",
+    "title": "Notícia de Tecnologia 4",
+    "imageUrl": "https://images.pexels.com/photos/3861964/pexels-photo-3861964.jpeg",
+    "description": "Resumo da notícia 4.",
+    "fullDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vel tortor facilisis, tincidunt metus ut, facilisis sapien.\n\nVestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae. Donec tincidunt, mauris nec laoreet faucibus, purus nisl tincidunt urna, sed tincidunt neque lorem in turpis.\n\nSed quis sapien eget velit cursus eleifend in at sapien. Nullam et tortor tincidunt, porttitor ante vitae, suscipit nisl."
+  },
+  {
+    "id": "news5",
+    "type": "news",
+    "title": "Notícia de Tecnologia 5",
+    "imageUrl": "https://images.pexels.com/photos/3861972/pexels-photo-3861972.jpeg",
+    "description": "Resumo da notícia 5.",
+    "fullDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vel tortor facilisis, tincidunt metus ut, facilisis sapien.\n\nVestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae. Donec tincidunt, mauris nec laoreet faucibus, purus nisl tincidunt urna, sed tincidunt neque lorem in turpis.\n\nSed quis sapien eget velit cursus eleifend in at sapien. Nullam et tortor tincidunt, porttitor ante vitae, suscipit nisl."
+  },
+  {
+    "id": "ad1",
+    "type": "ad",
+    "adUnitId": "AD-123456",
+    "imageUrl": "https://images.pexels.com/photos/3861954/pexels-photo-3861954.jpeg",
+    "destinationUrl": "https://example.com/promo"
+  },
+  {
+    "id": "news6",
+    "type": "news",
+    "title": "Notícia de Tecnologia 6",
+    "imageUrl": "https://images.pexels.com/photos/3861965/pexels-photo-3861965.jpeg",
+    "description": "Resumo da notícia 6.",
+    "fullDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vel tortor facilisis, tincidunt metus ut, facilisis sapien.\n\nVestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae. Donec tincidunt, mauris nec laoreet faucibus, purus nisl tincidunt urna, sed tincidunt neque lorem in turpis.\n\nSed quis sapien eget velit cursus eleifend in at sapien. Nullam et tortor tincidunt, porttitor ante vitae, suscipit nisl."
+  },
+  {
+    "id": "news7",
+    "type": "news",
+    "title": "Notícia de Tecnologia 7",
+    "imageUrl": "https://images.pexels.com/photos/3861964/pexels-photo-3861964.jpeg",
+    "description": "Resumo da notícia 7.",
+    "fullDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vel tortor facilisis, tincidunt metus ut, facilisis sapien.\n\nVestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae. Donec tincidunt, mauris nec laoreet faucibus, purus nisl tincidunt urna, sed tincidunt neque lorem in turpis.\n\nSed quis sapien eget velit cursus eleifend in at sapien. Nullam et tortor tincidunt, porttitor ante vitae, suscipit nisl."
+  }
+]
